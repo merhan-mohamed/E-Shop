@@ -10,6 +10,6 @@ export default defineConfig({
     tailwindcss(),
     
   ],
-  base:"/E-Shop"
+  base:"/"
   
 })
